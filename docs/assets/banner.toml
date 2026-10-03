@@ -1,0 +1,11 @@
+name = "Trustless Work Dart"
+tagline = "On-chain escrow for [Dart and Flutter]"
+chips = ["Client / Signer / Riverpod"]
+meta = "Open source · Dart"
+tile = "</>"
+
+[card]
+kind = "ledger"
+label = "Dart"
+status = "v0.1.0-dev.1 · MIT"
+rows = [["trustless_work_dart", "Pure-Dart escrow API client", "Dart"], ["trustless_work_flutter_storage", "Secure on-device signer", "Flutter"], ["trustless_work_riverpod", "Riverpod providers", "Flutter"]]
